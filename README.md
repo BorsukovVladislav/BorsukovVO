@@ -1,3 +1,3 @@
 # BorsukovVO
 Лабораторные работы по предмету "Параллельные вычисления"
-<a href = ""> </a>
+<a href = "img/Catstalkprey.jpg"> </a>
